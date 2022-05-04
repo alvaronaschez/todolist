@@ -1,6 +1,9 @@
+pydantic==1.9.*
+
 # dev
 pytest
 flake8
 black
 mypy
 bandit
+jupyter
